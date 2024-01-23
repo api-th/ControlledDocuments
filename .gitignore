@@ -1,0 +1,10 @@
+.DS_Store
+asset/input/*.pdf
+asset/build/*.pdf
+.env
+documents/.env
+build/
+*.sublime-*
+*.pyc
+
+settings.ini
